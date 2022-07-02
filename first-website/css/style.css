@@ -1,0 +1,20 @@
+h1 {
+    color: #377D71;
+    background-color:#FFDAAF;
+    margin-left: 20px;
+ }
+p {
+    color: #FBC5C5;
+ }
+h2{
+    color: #FBA1A1;
+    font-family: 'Arima', cursive;
+ }
+
+ .classTest {
+    color: #8879B0;
+    font-family: 'Splash', cursive;
+}
+#heading {
+    color: #F637EC
+}
