@@ -1,0 +1,114 @@
+h1 {
+    color: #377D71;
+}
+#write {
+    color: purple;
+    font-family: 'Cormorant', serif;
+    position: top-center;
+}
+
+
+h2{
+    color: #8d3737;
+    font-family: 'Arima', cursive;
+ }
+
+ .classTest {
+    color: #8879B0;
+    font-family: 'Splash', cursive;
+}
+#heading {
+    color: #3774f6;
+    background-color:#4b4343
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+hr {
+    border-style:dotted;
+    width: 100%;
+    border-color: #2523b8;
+    border-width: 0.5em;
+}
+div.first-container {
+	border-width: 10 px;
+	position:relative;
+	max-height: 30%;
+	margin: 10px auto 10px auto;
+	padding: 10%;
+    color: chocolate;
+}
+div.second-container {
+	border-width: 10 px;
+	position:relative;
+	max-height: 30%;
+	margin: 10px auto 10px auto;
+	padding: 10%;
+    color: rgb(171, 210, 30);
+}
+div.third-container {
+	border-width: 5 px;
+	position:relative;
+	max-height: 30%;
+	margin: 10px auto 10px auto;
+	padding: 10%;
+    color:chocolate;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-style:dotted;
+}
+div.fourth-container {
+	border-width: 10 px;
+	position:relative;
+	max-height: 30%;
+	margin: 10px auto 10px auto;
+	padding: 10%;
+    color:#377D71
+}
+div.sixth-container {
+	border-width: 10 px;
+	position:relative;
+	max-height: 30%;
+	margin: 10px auto 10px auto;
+	padding: 10%;
+    color:#377D71
+}
+#example1 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+}
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: grey;
+    padding: 30px;
+    font-size: 20px;
+    margin-left: 0.5em;
+  }
